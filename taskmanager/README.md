@@ -64,7 +64,7 @@ Project Structure
 
 Clone the repository
 
-git clone https://github.com/yourusername/task-manager-improvements.git
+git clone https://github.com/yourusername/Mern_task.git
 
 
 Install dependencies
