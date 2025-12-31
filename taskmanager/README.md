@@ -54,10 +54,15 @@ Local Storage
 Project Structure
 /src
 ├── components/   # Reusable UI components
+
 ├── pages/        # Application pages (Home, Tasks, etc.)
+
 ├── hooks/        # Custom React hooks
+
 ├── assets/       # Images, icons, and logos
+
 ├── App.jsx       # Main application component
+
 └── index.jsx     # React DOM entry point
 
 ⚡ Getting Started
